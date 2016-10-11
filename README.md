@@ -1,2 +1,2 @@
 # gpa-convertor
-um convertor de nota brasileira pra gpa eua
+Um convertor de nota brasileira pra gpa eua. Feito em R.
